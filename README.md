@@ -12,7 +12,7 @@ Carpe diem is a simple calendar application that allows users to schedule their 
 
 ## Usage 
 
-1. Open  in a web browser.
+1. Open  https://adini6.github.io/Carpe-Diem/ in a web browser.
 2. The application will generate time blocks for the current day.
 3. Enter your tasks or appointments in the corresponding time slots.
 4. Click the save button to save your input.
