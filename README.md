@@ -19,6 +19,7 @@ Carpe diem is a simple calendar application that allows users to schedule their 
 5. Your tasks or appointments will be saved in the local storage of your browser.
 
 ## Application
+![image](https://github.com/adini6/Carpe-Diem/assets/28551058/133ebdc9-a126-425b-ba20-485fd9babb8c)
 
 ## Credit
 Completed by Abdikalik Dini with starter code cloned from  https://github.com/coding-boot-camp/crispy-octo-meme
