@@ -6,7 +6,7 @@ Carpe diem is a simple calendar application that allows users to schedule their 
 
 - Generates time blocks for business hours (9 AM to 5 PM)
 - Displays the current date in the header
-- Time blocks based on past, present, and future time
+- Time blocks based on past(grey), present(red), and future time(green)
 - Allows users to enter and save tasks
 - pulls and populates saved user input from local storage
 
